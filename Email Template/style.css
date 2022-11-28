@@ -1,0 +1,132 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+}
+table {
+    border-spacing: 0;
+}
+.p1 {
+    font-weight: 500;
+    font-size: 25px;
+}
+.num {
+    color: #BF4C26;
+    font-weight: bold;
+}
+.p2 {
+    font-size: 13px;
+    font-weight: 900;
+    margin: auto;
+    padding-left: 5px;
+}
+#user {
+    font-size: 13px;
+    color: #757575;
+    font-weight: 600 !important;
+}
+.p3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: auto;
+    padding-left: 5px;
+    color: #BF4C26;
+}
+.username {
+    font-weight: 900;
+}
+.p4 {
+    font-size: 13px;
+}
+.p5 {
+    font-size: 13px;
+}
+.p6 {
+    font-size: 13px;
+}
+.p7 {
+    font-size: 13px;
+    font-weight: 600;
+    color: #BF4C26;
+    margin: auto;
+    padding-left: 15px;
+}
+.p8 {
+    font-size: 13px;
+    color: #757575;
+    margin: auto;
+}
+.table1 {
+    width: 90%;
+    border-spacing: 0px;
+    margin: auto;
+}
+.table1 td {
+    padding: 10px 15px;
+    border: 2px solid rgb(199, 185, 185);
+    color: black;
+    border-inline-style: none;
+    font-weight: 700;
+}
+.table1 thead td {
+    font-weight: bold;
+    color: #757575;
+}
+.span1 {
+    font-weight: 500 !important;
+}
+.tr1 {
+    background: rgba(191, 76, 38, 0.05);
+}
+.td2 {
+    color: #BF4C26 !important;
+    font-size: 25px !important;
+    font-weight: 600 !important;
+    padding-left: 50px !important;
+}
+#tex {
+    color: #757575;
+    font-weight: 400;
+}
+#tex1 {
+    color: #BF4C26;
+}
+.ground {
+    width: 90%;
+    table-layout: fixed;
+    background: #ffffff;
+    box-sizing: border-box;
+    border: 1.5px solid rgba(0, 0, 0, 0.05);
+    margin: auto;
+}
+.ground1 {
+    border: 1.5px solid rgba(0, 0, 0, 0.05);
+    width: 100%;
+    table-layout: fixed;
+    background: #ffffff;
+    box-sizing: border-box;
+    margin: auto;
+    border-bottom: #BF4C26;
+}
+.ground2 {
+    border: 1.5px solid rgba(0, 0, 0, 0.05);
+    width: 100%;
+    table-layout: fixed;
+    background: #ffffff;
+    box-sizing: border-box;
+    margin: auto;
+}
+.line {
+    background-color: #BF4C26;
+    background-image: linear-gradient( to right, #BF4C26 80%, #ffffff 80%);
+}
+.p9 {
+    font-size: 13px;
+    font-weight: bold;
+    margin: auto;
+}
+.img1 {
+    padding: 0 10px;
+}
+.line1 {
+    padding: 0 50px;
+}
